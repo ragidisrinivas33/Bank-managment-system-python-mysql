@@ -2,13 +2,13 @@
 
 Welcome to the Bank Management System, a Python-based command-line application designed to manage bank accounts efficiently. This system allows users to sign in, sign up, manage their accounts, perform transactions, and check their account details.
 
-Requirement
+## Requirement
 
 Python Latest Version
 Visual Code
 Mysql
 
-Features
+## Features
 Sign In / Sign Up
 
 Check if User is Registered
@@ -22,7 +22,7 @@ Account Details Update
 Transaction History
 Banking Facilities
 
-Account Details
+## Account Details
 Registration
 Account Management
 Transaction History
